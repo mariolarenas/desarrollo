@@ -1,0 +1,35 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.logo{
+font-family: 'Lobster', cursive;
+font-size: 2rem;
+}
+.carousel-indicators{
+    top:105%;
+}
+
+.carousel-indicators li{
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+.newsletter{
+    padding: 10% 12%;
+    font-size: 1.25rem;
+}
+.ancho-boton{
+    padding: 1% 8%;
+    min-width: 220px;
+}
+
+.newsletter span{
+    font-family: 'Lobster', cursive;
+    font-size: 1.5em;
+}
+
+.logo-footer{
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+}
